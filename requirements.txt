@@ -1,4 +1,6 @@
 numpy
 jupyter
 scikit-learn
+scikit-image
 matplotlib
+imagecodecs
